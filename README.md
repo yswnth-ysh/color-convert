@@ -1,20 +1,14 @@
 Java-Image-Processing-Project
 =============================
 
-DYimageFX - Open Source - Image Processing project
+imageFX - Open Source - Image Processing project
 
-By: Yusuf Shakeel
-
-Date: 26 January 2014 Sunday
+By: yaswanth
 
 
-[facebook.com/yusufshakeel](https://www.facebook.com/yusufshakeel)
+[github.com/yswnth-ysh](https://www.github.com/yswnth-ysh)
 
-[youtube.com/yusufshakeel](https://www.youtube.com/yusufshakeel)
 
-[github.com/yusufshakeel](https://www.github.com/yusufshakeel)
-
-[plus.google.com/+YusufShakeel](https://plus.google.com/+YusufShakeel/posts)
 
 
 Note
@@ -24,21 +18,21 @@ This project is in development stage so files will get modified quite often.
 I have used NetBeans IDE 7.3.1 for this project. It is a free software and you can download it from there website [netbeans.org] (https://netbeans.org)
 
 
-### Project wiki [https://github.com/yusufshakeel/Java-Image-Processing-Project/wiki] (https://github.com/yusufshakeel/Java-Image-Processing-Project/wiki)
+### Project wiki [https://github.com/yswnth-ysh/Java-Image-Processing-Project/wiki] (https://github.com/yswnth-ysh/Java-Image-Processing-Project/wiki)
 
-### Download [DYimageFX-jar](https://github.com/yusufshakeel/Java-Image-Processing-Project/tree/master/DYimageFX-jar) file to use it in your project.
+### Download [imageFX-jar](https://github.com/yswnth-ysh/Java-Image-Processing-Project/tree/master/imageFX-jar) file to use it in your project.
 
-### Download [DYimageFX-javadoc](https://github.com/yusufshakeel/Java-Image-Processing-Project/blob/master/DYimageFX-javadoc) for more details.
+### Download [imageFX-javadoc](https://github.com/yswnth-ysh/Java-Image-Processing-Project/blob/master/imageFX-javadoc) for more details.
 
 
-### You can also download the entire [project code](https://github.com/yusufshakeel/Java-Image-Processing-Project/archive/master.zip).
+### You can also download the entire [project code](https://github.com/yswnth-ysh/color-conert/archive/master.zip).
 
 
 # License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Yusuf Shakeel
+Copyright (c) 2014 yaswanth
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
